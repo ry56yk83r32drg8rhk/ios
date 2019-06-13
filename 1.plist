@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>UDID</string>
 				<key>title</key>
-				<string>支付密保</string>
+				<string>title</string>
 			</dict>
 		</dict>
 	</array>
